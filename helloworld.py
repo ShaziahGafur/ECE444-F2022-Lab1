@@ -1,1 +1,1 @@
-print("Hello World", "Shaziah", "4")
+print("Hello World", "4")
