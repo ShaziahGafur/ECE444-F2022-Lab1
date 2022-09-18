@@ -20,8 +20,5 @@ Teammate's change on my repo:
 
 ## Activity 5
 Rebase Screenshots:
-![Activity 5](Activity5-1.png)
 
-![Activity 5](Activity5-2.png)
 
-![Activity 5](Activity5-3.png)
