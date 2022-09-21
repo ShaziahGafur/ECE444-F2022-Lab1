@@ -29,3 +29,17 @@ Rebase Screenshots:
 
 ## Activity 6
 [Education Pathways Repo](https://github.com/ShaziahGafur/ECE444-F2022-EP)
+
+## Activity 7
+Screenshots of modified webpage:
+
+![Activity 7](Activity7-1.png)
+
+![Activity 7](Activity7-2.png)
+
+## Activity 8
+Screenshots of modified webpage:
+
+![Activity 8](Activity8-1.png)
+
+![Activity 8](Activity8-2.png)
